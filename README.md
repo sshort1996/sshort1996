@@ -2,14 +2,10 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<div class="parent">
-<div>
-  <ul class="social-icons">
-    <li><a href="https://github.com/sshort1996"><i class="fab fa-github fa-3x"></i></a></li>
-    <li><a href="mailto:shane.short5@gmail.com"><i class="far fa-envelope fa-3x"></i></a></li>
-    <li><a href="https://www.linkedin.com/in/shaneshort96/"><i class="fab fa-linkedin fa-3x"></i></a></li>
-  </ul>
-  <p>© 2023 Shane Short.</p>  
-</div>
-</div>
+<ul class="social-icons">
+  <li><a href="https://github.com/sshort1996"><i class="fab fa-github fa-3x"></i></a></li>
+  <li><a href="mailto:shane.short5@gmail.com"><i class="far fa-envelope fa-3x"></i></a></li>
+  <li><a href="https://www.linkedin.com/in/shaneshort96/"><i class="fab fa-linkedin fa-3x"></i></a></li>
+</ul>
+<p>© 2023 Shane Short.</p>  
 
