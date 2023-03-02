@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sshort1996&label=Profile%20views&color=0e75b6&style=flat" alt="sshort1996" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sshort1996" alt="sshort1996" /></a> </p>
 
 - 🔭 I’m currently working on [connecting to google home devices through the google developer console](https://github.com/sshort1996/Assistant)
 
