@@ -1,32 +1,33 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>Example</title>
-	<style>
-		img {
-			display: block;
-			margin: 0 auto;
-			border-radius: 30%;
-			overflow: hidden;
-			width: 100px;
-			height: 100px;
-			object-fit: cover;
-			object-position: right right top;
-		}
-	</style>
-</head>
-<body>
-	<div id="header" align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100"/>
-  <ul class="social-icons">
-  <a href="https://www.linkedin.com/in/shaneshort96" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"></a>
-  <a href="mailto:shane.short5@gmail.com" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Gmail"></a>
-  <a href="https://sshort1996.github.io" target="_blank"><img src="https://img.icons8.com/material-sharp/48/000000/domain.png" alt="Personal Website"></a>
-</ul>
-</div>
-<p>Hello, my name is Your Name and I'm a developer based in Your City, Country. I specialize in Your Area of Expertise and I'm passionate about Your Interests. I have experience with Your Technologies and I'm always eager to learn more. Feel free to contact me through any of the social media links above!</p>
+<h1 align="center">Hi 👋, I'm Shane Short</h1>
+<h3 align="center">An Irish Theoretical Physics grad turned Data Engineer, currently dipping my toes into Front End Development</h3>
 
-</body>
-</html>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sshort1996&label=Profile%20views&color=0e75b6&style=flat" alt="sshort1996" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sshort1996" alt="sshort1996" /></a> </p>
 
+- 🔭 I’m currently working on [connecting to google home devices through the google developer console](https://github.com/sshort1996/Assistant)
+
+- 🌱 I’m currently learning **early stages of front end development, basic html, javascript, and css. Whole new world**
+
+- 👨‍💻 All of my projects are available at [https://sshort1996.github.io/](https://sshort1996.github.io/)
+
+- 📫 How to reach me **shane.short5@gmail.com**
+
+- 📄 Know about my experiences [https://sshort1996.github.io/career.html](https://sshort1996.github.io/career.html)
+
+- ⚡ Fun fact **I like to hang out up the mountains and in the woods a lot**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/shaneshort96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaneshort96" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/bobert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="bobert" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sshort1996&show_icons=true&locale=en&layout=compact" alt="sshort1996" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sshort1996&show_icons=true&locale=en" alt="sshort1996" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sshort1996&" alt="sshort1996" /></p>
