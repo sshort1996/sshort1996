@@ -3,13 +3,13 @@
 </div>
 
 <div class="parent">
-  <div class="child"><a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a></div>
+<div>
+  <ul class="social-icons">
+    <li><a href="https://github.com/sshort1996"><i class="fab fa-github fa-3x"></i></a></li>
+    <li><a href="mailto:shane.short5@gmail.com"><i class="far fa-envelope fa-3x"></i></a></li>
+    <li><a href="https://www.linkedin.com/in/shaneshort96/"><i class="fab fa-linkedin fa-3x"></i></a></li>
+  </ul>
+  <p>© 2023 Shane Short.</p>  
 </div>
+</div>
+
