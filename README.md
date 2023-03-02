@@ -6,12 +6,12 @@
 		img {
 			display: block;
 			margin: 0 auto;
-			border-radius: 50%;
+			border-radius: 30%;
 			overflow: hidden;
 			width: 100px;
 			height: 100px;
 			object-fit: cover;
-			object-position: right top;
+			object-position: right right top;
 		}
 	</style>
 </head>
