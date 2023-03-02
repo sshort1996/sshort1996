@@ -1,14 +1,12 @@
 <p align="center">
-  <img src="https://s27389.pcdn.co/wp-content/uploads/2019/08/AdobeStock_244675452.jpeg" height="200"/>
+  <img src="assets/background.jpg" height="150" width="800"/>
 </p>
 <br>
 
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=sshort1996&color=brightgreen" alt="watching_count" />
- </p>
  <p align="center">
+ <img src="https://komarev.com/ghpvc/?username=sshort1996&color=brightgreen" alt="watching_count" />
 <img src="https://img.shields.io/badge/Age-25-blue" />
-  <img src="https://img.shields.io/badge/Focus-Cloud%29Data%20Platforms-brightgreen" />
+  <img src="https://img.shields.io/badge/Focus-Cloud%20Data%20Platforms-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-Perth%20WA-success" />
 </p>
 <hr>
