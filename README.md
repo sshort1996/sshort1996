@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100"/>
   <ul class="social-icons">
   <a href="https://www.linkedin.com/in/shaneshort96" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"></a>
   <a href="mailto:shane.short5@gmail.com" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Gmail"></a>
