@@ -1,3 +1,17 @@
+
+<style>
+  img {
+    display: block;
+    margin: 0 auto;
+    border-radius: 50%;
+    overflow: hidden;
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    object-position: right top;
+  }
+</style>
+
 <div id="header" align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100"/>
   <ul class="social-icons">
