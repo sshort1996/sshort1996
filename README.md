@@ -1,7 +1,26 @@
+<!-- 
+<style>
+    .image-container {
+        width: 800px;
+        height: 200px;
+        overflow: hidden;
+    }
+</style>
+
+<div class="image-container">
+    <img src="https://media.giphy.com/media/cP6EXyM397RDgauGqu/giphy.gif">
+</div> -->
+
+<!-- 
 <p align="center">
-  <img src="assets/background.jpg" height="150" width="800"/>
+  <img src="https://media.giphy.com/media/cP6EXyM397RDgauGqu/giphy.gif" height="150" width="800"/>
 </p>
-<br>
+<br> -->
+<canvas id="myCanvas" width="500" height="500"></canvas>
+<img id="myImage" src="" />
+
+<script src="scripts/draw_terrain.js"></script>
+
 
  <p align="center">
  <img src="https://komarev.com/ghpvc/?username=sshort1996&color=brightgreen" alt="watching_count" />
