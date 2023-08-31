@@ -27,7 +27,7 @@
 
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=sshort1996&color=brightgreen" alt="watching_count" />
-<img src="https://img.shields.io/badge/Age-25-blue" />
+<img src="https://img.shields.io/badge/Age-27-blue" />
   <img src="https://img.shields.io/badge/Focus-Cloud%20Data%20Platforms-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-Perth%20WA-success" />
 </p>
