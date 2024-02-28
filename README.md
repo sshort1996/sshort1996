@@ -48,7 +48,7 @@
   
 </p>
 <br><br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sshort1996&hide=JupyterNotebook&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sshort1996&hide=jupyter%20notebook&theme=tokyonight)
   <hr>
 
 <p align="center">
